@@ -1,0 +1,94 @@
+PATTERNS
+Numbers [<num>:]
+NumStemReg [<num>:] UnitsInfl
+NumStemReg [<num>:] TensInfl (TensExactInfl) | (TensInexactInfl)
+NumStemTen [<num>:] (TenExactInfl) | (TenInexactInfl)
+NumStemTwenty [<num>:] (TwentyExactInfl) | (TwentyInexactInfl)
+NumStemReg [<num>:] HundredsInfl (HundredsExactInfl) | (HundredsInexactInfl)
+NumStemHundred [<num>:] (HundredExactInfl) | (HundredInexactInfl)
+NumStemThousand [<num>:] (ThousandExactInfl) | (ThousandInexactInfl)
+HigherNum [<num>:]
+
+LEXICON NumStemReg
+ца # один
+кIи # два
+хIяб # три
+ав # четыре
+шу # пять
+урег # шесть
+верхI # семь
+гехI # восемь
+урчIем # девять
+
+LEXICON Numbers
+ца:ца # один
+кIиел:кIи # два
+хIябал:хIяб # три
+авал:ав # четыре
+шел:шу # пять
+урегал:урег # шесть
+верхIел:верхI # семь
+гехIел:гехI # восемь
+урчIемал:урчIем # девять
+
+LEXICON NumStemTen
+вецI # десять
+
+LEXICON NumStemTwenty
+гъ # двадцать
+
+LEXICON NumStemHundred
+дарш # сто
+
+LEXICON NumStemThousand
+азир # тысяча
+
+LEXICON HigherNum
+миллион # миллион
+миллиард # миллиард
+
+LEXICON UnitsInfl
+<units>:ра
+
+LEXICON TensInfl
+<tens>:цI
+
+LEXICON TensExactInfl
+<exact>:али
+
+LEXICON TensInexactInfl
+<inexact>:анну
+
+LEXICON TenExactInfl
+<exact>:ал
+
+LEXICON TenInexactInfl
+<inexact>:ну
+
+LEXICON TwentyExactInfl
+<exact>:ал
+
+LEXICON TwentyInexactInfl
+<inexact>:ану
+
+LEXICON HundredsInfl
+<hundreds>:дарш
+
+LEXICON HundredsExactInfl
+<exact>:
+
+LEXICON HundredsInexactInfl
+<inexact>:лим
+
+LEXICON HundredExactInfl
+<exact>:ал
+
+LEXICON HundredInexactInfl
+<inexact>:лим
+
+LEXICON ThousandExactInfl
+<exact>:
+
+LEXICON ThousandInexactInfl
+<inexact>:лим
+
