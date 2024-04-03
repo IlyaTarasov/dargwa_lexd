@@ -1,0 +1,29 @@
+PATTERNS
+NounAbs [<n>:] (Abs | Erg | Gen | Adv)
+NounAbs [<n>:] Obl (Dat | Com)
+
+LEXICON NounAbs
+dubur # гора
+
+LEXICON Abs
+<abs>:
+
+LEXICON Erg
+<erg>:li
+
+LEXICON Obl
+<obl>:li
+
+LEXICON Gen
+<gen>:{l}la
+
+LEXICON Dat
+<dat>:z
+
+LEXICON Com
+<com>:cːele
+
+LEXICON Adv
+<adv>:le
+
+
