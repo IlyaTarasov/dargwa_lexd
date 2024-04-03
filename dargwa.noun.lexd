@@ -1,0 +1,20 @@
+PATTERNS
+NounAbs [<n>:] NounInfl
+NounAbs [<n>:] Obl NounOblInfl
+
+LEXICON NounAbs
+dubur # гора
+
+LEXICON NounInfl
+<abs>:
+<erg>:li
+<gen>:{l}la
+<adv>:le
+
+LEXICON Obl
+<obl>:li
+
+LEXICON NounOblInfl
+<dat>:z
+<com>:cːele
+
