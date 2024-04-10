@@ -1,0 +1,63 @@
+PATTERNS
+NounAbs [<n>:] NounInfl (Loc Orient Dir)
+NounAbs [<n>:] (Pl) Obl NounOblInfl (Loc Orient Dir)
+
+LEXICON NounAbs
+dubur # гора
+
+LEXICON Pl
+<pl>:t
+<pl>:be
+<pl>:me
+<pl>:ne
+<pl>:e
+<pl>:le
+<pl>:he
+<pl>:re
+<pl>:-še
+<pl>:ane
+<pl>:lume
+<pl>:ulme
+<pl>:upːe
+<pl>:urbe
+<pl>:uˁpːe
+<asc.pl>:qale
+
+LEXICON NounInfl
+<abs>:
+<erg>:li
+<gen>:{l}la
+<adv>:le
+
+LEXICON Obl
+<obl>:li
+
+LEXICON NounOblInfl
+<dat>:z
+<com>:cːele
+<erg>:li
+<gen>:{l}la
+
+LEXICON Loc
+<super>:ja
+<sub>:gu
+<ante>:sa
+<in>:ħe
+<inter>:cːe
+<apud>:hira
+<ad>:šːu
+<loc>:na
+<loc>:ni
+<post>:hi
+
+LEXICON Orient
+<lat>:
+<ess>:w | r | b | d #class indicator 
+<el>:r
+<trans>:tːi
+
+LEXICON Dir
+<up>:ha{le}
+<down>:ka{le}
+<hither>:se{le}
+<thither>:de{le}
