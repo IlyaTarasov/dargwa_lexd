@@ -1,6 +1,6 @@
 PATTERNS
-NounAbs [<n>:] NounInfl (Loc Orient Dir)
-NounAbs [<n>:] (Pl) Obl NounOblInfl (Loc Orient Dir)
+NounAbs [<n>:] NounInfl (Loc Orient (Dir))
+NounAbs [<n>:] (Pl) Obl NounOblInfl (Loc Orient (Dir))
 
 LEXICON NounAbs
 dubur # гора
