@@ -1,0 +1,80 @@
+analysis,form,mustpass,source,page,description
+ну<PRON><abs>,ну,pass,"Абдуллаев, 1954",141,pronouns
+сай<PRON><abs>,сай,pass,"Абдуллаев, 1954",141,pronouns
+хIуша<PRON><abs>,хIуша,pass,"Абдуллаев, 1954",141,pronouns
+ну<PRON><super>,набчи,pass,"Абдуллаев и др., 2014",254,pronominal inflection
+хIу<PRON><dat>,хIед,pass,"Абдуллаев и др., 2014",254,pronominal inflection
+сай<PRON><erg>,сунени,pass,"Абдуллаев и др., 2014",254,pronominal inflection
+саби<PRON><super><n.el>,чучибад,pass,"Абдуллаев, 1954",142,pronominal inflection
+ит<PRON><gen>,итала,pass,"Абдуллаев и др., 2014",254,pronominal inflection
+се<PRON><erg><super><n.ess>,селичиб,pass,"Абдуллаев, 1954",142,pronominal inflection
+нуша<PRON><gen>,нушала,pass,"Абдуллаев, 1954",141,pronominal inflection
+кIел<NUM><card>,кIел,pass,"Абдуллаев и др., 2014",226,numerals
+хIябал<NUM><card>,хIябал,pass,"Абдуллаев и др., 2014",227,numerals
+авал<NUM><ten>,авцIали,pass,"Абдуллаев и др., 2014",227,numerals
+урегал<NUM><add>,урегра,pass,"Гасанова, 2003",60,numerals
+гъал<NUM><card>,гъал,pass,"Гасанова, 2003",60,numerals
+шел<NUM><ten.compl>,шуцIанну,pass,"Гасанова, 2003",61,numerals
+даршал<NUM><card>,даршал,pass,"Гасанова, 2003",61,numerals
+даршал<NUM><hund.compl>,даршлим,pass,"Гасанова, 2003",61,numerals
+верхIел<NUM><hund>,верхIдарш,pass,"Гасанова, 2003",62,numerals
+авал<NUM><ten><npl.coll>,авцIалидехI,pass,"Абдуллаев и др., 2014",229,numerals
+авал<NUM><hpl.coll>,авбехI,pass,"Абдуллаев и др., 2014",229,numerals
+авал<NUM><ord>,авъибил,pass,"Абдуллаев и др., 2014",233,numerals
+ца<NUM><npl.coll><ord.pl>,цадехъибти,pass,"Абдуллаев и др., 2014",233,numerals
+хIябал<NUM><sg><fact>,хIябли,pass,"Абдуллаев и др., 2014",237,numeral inflection
+ца<NUM><ord><sg><gen>,цаибилла,pass,"Абдуллаев и др., 2014",237,numeral inflection
+ца<NUM><hpl.coll><sg><erg><dat>,цабехIлис,pass,"Абдуллаев и др., 2014",237,numeral inflection
+авал<NUM><ten><sg><gen>,авцIа,pass,"Абдуллаев и др., 2014",237,numeral inflection
+шел<NUM><add><sg><erg><super>,шураличи,pass,"Абдуллаев и др., 2014",238,numeral inflection
+вабза<ADJ><sg><m>,вабза,pass,"Абдуллаев и др., 2014",209,adjectives
+вабза<ADJ><sg><f>,рабза,pass,"Абдуллаев и др., 2014",209,adjectives
+вабза<ADJ><sg><n>,бабза,pass,"Абдуллаев и др., 2014",209,adjectives
+цIуба<ADJ><pl>,цIубаби,pass,"Абдуллаев и др., 2014",217,adjectives
+дурала<ADJ><sg><erg>,дуралай,pass,"Абдуллаев и др., 2014",220,adjective inflection
+дурала<ADJ><sg><obl><super>,дуралайчи,pass,"Абдуллаев и др., 2014",220,adjective inflection
+цIуба<ADJ><sg><dat>,цIубас,pass,"Абдуллаев и др., 2014",220,adjective inflection
+цIуба<ADJ><sg><erg><dat>,цIубалис,pass,"Абдуллаев и др., 2014",220,adjective inflection
+вялхъя<ADJ><sg><m><gen>,вялхъяла,pass,"Абдуллаев и др., 2014",220,adjective inflection
+вялхъя<ADJ><sg><n><gen>,бялхъяла,pass,"Абдуллаев и др., 2014",220,adjective inflection
+рузи<N><sg><abs>,рузи,pass,"Абдуллаев и др., 2014",201,nouns
+рузи<N><pl><abs>,рузби,pass,"Абдуллаев и др., 2014",201,nouns
+рузи<N><sg><fact>,рузили,pass,"Абдуллаев и др., 2014",189,noun inflection
+шин<N><sg><fact>,шинни,pass,"Абдуллаев и др., 2014",189,noun inflection
+рузи<N><sg><erg>,рузини,pass,"Абдуллаев и др., 2014",190,noun inflection
+ватIан<N><sg><erg>,ватIай,pass,"Абдуллаев и др., 2014",190,noun inflection
+ута<N><sg><erg>,утали,pass,"Абдуллаев и др., 2014",190,noun inflection
+адам<N><sg><gen>,адамла,pass,"Абдуллаев и др., 2014",191,noun inflection
+рузи<N><sg><gen>,рузила,pass,"Абдуллаев и др., 2014",191,noun inflection
+ватIан<N><sg><gen>,ватIа,pass,"Абдуллаев и др., 2014",191,noun inflection
+адам<N><sg><obl><dat>,адамлис,pass,"Абдуллаев и др., 2014",193,noun inflection
+рузи<N><sg><dat>,рузис,pass,"Абдуллаев и др., 2014",193,noun inflection
+рузи<N><sg><super>,рузичи,pass,"Абдуллаев и др., 2014",193,noun inflection
+рузи<N><sg><sub>,рузиу,pass,"Абдуллаев и др., 2014",193,noun inflection
+рузи<N><sg><in>,рузизи,pass,"Абдуллаев и др., 2014",193,noun inflection
+ватIан<N><sg><obl><super>,ватIайчи,pass,"Абдуллаев и др., 2014",193,noun inflection
+ута<N><sg><obl><super>,уталичи,pass,"Абдуллаев и др., 2014",193,noun inflection
+рузи<N><sg><comit>,рузичил,pass,"Абдуллаев и др., 2014",194,noun inflection
+ута<N><sg><obl><comit>,уталичил,pass,"Абдуллаев и др., 2014",194,noun inflection
+рузи<N><sg><cont>,рузичила,pass,"Абдуллаев и др., 2014",195,noun inflection
+ута<N><sg><obl><cont>,уталичила,pass,"Абдуллаев и др., 2014",195,noun inflection
+кьани<N><sg><obl><super><n.lat>,кьаниличибяхI,pass,"Абдуллаев и др., 2014",196,noun inflection
+кьани<N><sg><obl><in><n.lat>,кьанилизибяхI,pass,"Абдуллаев и др., 2014",196,noun inflection
+кьани<N><sg><obl><sub><hpl.lat>,кьанилиубяхI,pass,"Абдуллаев и др., 2014",196,noun inflection
+вацIа<N><sg><obl><in><npl.lat>,вацIализиряхI,pass,"Абдуллаев и др., 2014",196,noun inflection
+рузи<N><sg><super><n.ess>,рузичиб,pass,"Абдуллаев и др., 2014",197,noun inflection
+рузи<N><sg><super><m.ess>,рузичив,pass,"Абдуллаев и др., 2014",197,noun inflection
+рузи<N><sg><super><f.ess>,рузичир,pass,"Абдуллаев и др., 2014",197,noun inflection
+рузи<N><sg><super><hpl.el>,рузичибад,pass,"Абдуллаев и др., 2014",198,noun inflection
+ута<N><sg><obl><super><n.el>,уталичибад,pass,"Абдуллаев и др., 2014",198,noun inflection
+рузи<N><sg><super><hpl.ess><med>,рузичибли,pass,"Абдуллаев и др., 2014",199,noun inflection
+адам<N><pl><erg>,адамтани,pass,"Абдуллаев и др., 2014",200,noun inflection
+адам<N><pl><gen>,адамтала,pass,"Абдуллаев и др., 2014",200,noun inflection
+адам<N><pl><dat>,адамтас,pass,"Абдуллаев и др., 2014",200,noun inflection
+адам<N><pl><super>,адамтачи,pass,"Абдуллаев и др., 2014",200,noun inflection
+азбар<N><sg><gen>,азбарла,pass,"Абдуллаев и др., 2014",203,noun inflection
+хIянчи<N><sg><gen>,хIянчила,pass,"Абдуллаев и др., 2014",203,noun inflection
+дудеш<N><sg><gen><attr>,дудешласи,pass,"Абдуллаев и др., 2014",204,noun inflection
+дудеш<N><sg><obl><dat><attr>,дудешлисси,pass,"Абдуллаев и др., 2014",204,noun inflection
+дудеш<N><sg><gen><adv>,дудешлали,pass,"Абдуллаев и др., 2014",204,noun inflection
+дудеш<N><sg><obl><dat><adv>,дудешлисли,pass,"Абдуллаев и др., 2014",204,noun inflection
